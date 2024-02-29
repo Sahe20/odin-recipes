@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(90, 245, 76);
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+div {
+    border: 4px  solid black;
+    padding: 1%;
+}
+.img {
+    margin-left: 40% !important;
+}
+h2 {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.Description {
+    text-align: center;
+    text-decoration-thickness: bold;
+    font-size: 1em;
+    font-weight: 500;
+}
+.ing {
+    text-align: center;
+    font-size: 2em;
+}
+.ul1 {
+    font-size: large;
+}
+h3{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+}
+ol {
+    font-size: large;
+}
+

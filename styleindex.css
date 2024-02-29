@@ -1,0 +1,25 @@
+body {
+    background-image: url(developer.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+h1 {
+    border: 5px solid rebeccapurple;
+    padding: 10%;
+    text-align: center;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    color: rebeccapurple;
+}
+span {
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bolder;
+
+}
